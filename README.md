@@ -6,7 +6,7 @@
 
 ## 👋 whoami
 
-Just discovered **vibe coding** — and fell in love with it.
+Just discovered **vibe coding**  and fell in love with it.
 
 I describe what i want, AI helps me build it and i ship real things
 while learning how they actually work under the hood

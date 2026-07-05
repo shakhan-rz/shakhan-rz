@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=6000&color=F97316&center=true&vCenter=true&width=750&height=45&lines=hi%2C+i'm+Shakhan+%F0%9F%91%8B+...+i+love+vibe+coding+%F0%9F%A7%A1+...+build+%E2%86%92+ship+%E2%86%92+repeat&repeat=false" alt="intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=6000&color=F97316&center=true&vCenter=true&width=850&height=40&lines=hi%2C+i%27m+Shakhan+%F0%9F%91%8B+...+i+love+vibe+coding+%F0%9F%A7%A1+...+build+%E2%86%92+ship+%E2%86%92+repeat&repeat=false" alt="intro" />
 
 </div>
 

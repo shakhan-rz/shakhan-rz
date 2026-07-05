@@ -1,6 +1,8 @@
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&color=F97316&center=true&vCenter=true&width=420&height=40&lines=hi%2C+i'm+Shakhan+%F0%9F%91%8B&repeat=false" alt="line 1" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=vibe+coding+my+way+into+tech...;learning+by+building%2C+not+by+reading;prompt+%E2%86%92+code+%E2%86%92+ship+%E2%86%92+repeat" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&color=F97316&center=true&vCenter=true&width=420&height=36&lines=i+love+vibe+coding+%F0%9F%A7%A1&repeat=false" alt="line 2" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&color=C9D1D9&center=true&vCenter=true&width=420&height=32&lines=build+%E2%86%92+ship+%E2%86%92+repeat&repeat=false" alt="line 3" />
 
 </div>
 

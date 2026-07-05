@@ -8,12 +8,11 @@
 
 Just discovered **vibe coding** — and fell in love with it.
 
-I describe what I want, AI helps me build it, and I ship real things
-while learning how they actually work under the hood.
+I describe what i want, AI helps me build it and i ship real things
+while learning how they actually work under the hood
 
-- 🚀 **currently:** building and shipping projects with AI pair-programmers
-- 🧠 **learning:** what makes code *good* by watching it get written
-- ⚡ **status:** having way too much fun for this to be called "work"
+Things that excite me right now: **AI tools**, **automation** and
+watching an idea become a working product in one evening
 
 <br>
 
